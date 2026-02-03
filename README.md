@@ -10,7 +10,7 @@ Welcome to the official repository of **The Athens Protocol 1:1**. This project 
 The Athens Protocol is more than a CV; it is a **Human API Endpoint**. It leverages on-chain attestations and automated workflows to provide a documented **+19.1% productivity uplift**.
 
 - **Identity:** Verified via KYC/AML protocols.
-- **Network:** Powered by [Base](https://www.base.org/) & [EAS](https://attest.sh/).
+- **Network:** Powered by [Base](https://base.app/profile/maestro?tab=posts) & [EAS](https://base.easscan.org/schema/view/0xfb68c126fbd3a5d30c06d272d2d573c4849989119d190742da02afd9b8876c6a).
 - **Logic:** Absolute Mitosis (Ex Falso Quodlibet).
 - **Parity:** 1:1 physical-to-digital representation.
 
